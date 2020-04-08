@@ -1,0 +1,2 @@
+# PropostaSIColetaLixo
+Exercicio 2
